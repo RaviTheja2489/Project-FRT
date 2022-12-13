@@ -22,27 +22,29 @@ This is a web based application developed for health related  in india
 
 ## Screenshots
 
+![WE-COOK_ Home __ - Google Chrome 13-12-2022 21_44_57](https://user-images.githubusercontent.com/117586447/207386506-63da9f3c-9418-4ea7-9d01-e4d903ab625a.png)
+
+![WE-COOK_ Home __ - Google Chrome 13-12-2022 21_45_07](https://user-images.githubusercontent.com/117586447/207386528-753d3a6e-b2e2-4cd4-9974-270213b5f720.png)
 
 
+![WE-COOK_ Home __ - Google Chrome 13-12-2022 21_45_16](https://user-images.githubusercontent.com/117586447/207386593-bfc50346-4fea-425a-a998-bf4eb17027f6.png)
 
 
-
+![WE-COOK_ Home __ - Google Chrome 13-12-2022 21_45_53](https://user-images.githubusercontent.com/117586447/207386608-978b162e-9cf0-4823-b3ba-4ebc04b71bdc.png)
 
 
 
 
 
 ##Static web app screenshort
-
-
+![WE-COOK_ Home __ - Google Chrome 13-12-2022 21_46_43](https://user-images.githubusercontent.com/117586447/207386439-3f002ceb-6059-427d-a5f4-0518dc7f69da.png)
 
 
 ##healthbot screen short
 
+![WE-COOK_ Home __ - Google Chrome 13-12-2022 21_46_32](https://user-images.githubusercontent.com/117586447/207386420-c64c6a20-5610-42b7-abe7-c0126e61c285.png)
 
    
-
-
 
 ## Tech Stack 💻
 
