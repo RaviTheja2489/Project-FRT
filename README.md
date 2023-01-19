@@ -7,8 +7,10 @@ This is a web based application developed for health related  in india
 
 
 **Project Link** -https://ravitheja2489.github.io/Project-FRT/
+
 **static web app link**-https://wonderful-plant-069de4c00.2.azurestaticapps.net
-**video demo url**-
+
+**video demo url**-https://youtu.be/-tTNBWJvNwg
 
 
 ## Features and Functionalities 😃
